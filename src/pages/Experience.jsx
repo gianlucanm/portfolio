@@ -16,7 +16,7 @@ function Experience() {
         </li>
         <li className="item">
           <h2>Linguagens</h2>
-          <span>PHP.</span>
+          <span>PHP, HTML</span>
         </li>
       </ol>
     </div>

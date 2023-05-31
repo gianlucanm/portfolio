@@ -5,7 +5,7 @@ function Experience() {
   return (
     <div className="skills">
       <ol className="list">
-        <h1>Skills</h1>
+        <h1>Conhecimentos</h1>
         <li className="item">
           <h2> Front-End</h2>
           <span>ReactJS, HTML, CSS, BootStrap.</span>
@@ -15,7 +15,7 @@ function Experience() {
           <span>MySQL.</span>
         </li>
         <li className="item">
-          <h2>Languages</h2>
+          <h2>Linguagens</h2>
           <span>PHP.</span>
         </li>
       </ol>

@@ -9,7 +9,7 @@ function Home() {
         <img src={me} alt="Me" />
         <h2>Gianluca Nino</h2>
         <div className="prompt">
-          <p>Um estudante da ETEC, aspirante a programação.</p>
+          <p>Estudante de análise e desenvolvimento de sistemas na Etec!</p>
           <a
             className="social-media"
             href="https://www.linkedin.com/in/gianluca-nino-mariano-4b5703278/
